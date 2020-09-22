@@ -1,0 +1,33 @@
+﻿body{
+    background:#eeeeee;
+}
+form {
+    font-family: Trebuchet MS;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 305px;
+    background-color: white;
+}
+button {
+    font-family: Trebuchet MS;
+    width: 270px;
+    height: 30px;
+    background-color: yellow;
+    border: none;
+    border-radius: 10px;
+}
+input[type=text] {
+    font-family: Trebuchet MS;
+    width: 270px;
+    border: none;
+    border-bottom: 1px solid lightgrey;
+}
+input[type=checkbox]{
+}
+span {
+    font-family: Trebuchet MS;
+    font-size:15px;
+}
+img{
+}
